@@ -1,11 +1,11 @@
-<img src="https://user-images.githubusercontent.com/7962407/159135717-d4b6961a-b870-467c-b1f3-2faafdbf855b.jpeg" />
+<img src="https://raw.githubusercontent.com/josh-niday/josh-niday/master/image/0_Banner-Josh.jpg" />
 
 ## Mingjun Geng here 🌎!
 
 ## Below are the links to my profiles....
 
-- [Porfolio](https://mingjungeng.github.io/)
-- [Linkiedn](https://www.linkedin.com/in/mjgeng/)
+- [Porfolio](https://devmanjosh.netlify.app/)
+- [Linkiedn](https://www.linkedin.com/in/josh-niday-29975b231/)
 
 ## More about me....
 
