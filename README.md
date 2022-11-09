@@ -7,9 +7,9 @@
 
 ## More about me....
 
-- 💻 I'm  Josh Niday & I am a senior full stack developer having 12 years of experience in web development. 
-- 🤟 I have started my career as a software assistant engineer at Huawei China, then transfer my job to be an IC design system engineer, I do like the lower physical layer technology. 
-- 📧 Email me at <a href="sooofeve@gmail.com" target="_blank">sooofeve@gmail.com</a>
+- 💻 I'm  John Parker & I am a senior full stack developer having 12 years of experience in web development. 
+- 🤟 I have started my career as a software engineer at Dreamers & Doers, then transfer my job to be an IC design system engineer, I do like the lower physical layer technology. 
+- 📧 Email me at <a href="parkerjakejohn127@gmail.com" target="_blank">parkerjakejohn127@gmail.com</a>
 
 ## Languages & Tools 🛠
 
