@@ -2,7 +2,7 @@
 
 ## Below are the links to my profiles....
 
-- [Porfolio](https:/john-jake-parker)
+- [Porfolio](https://john-jake-parker.com)
 - [Linkiedn](https://www.linkedin.com/in/john-jake-parker/)
 
 ## More about me....
