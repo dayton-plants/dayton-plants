@@ -2,7 +2,7 @@
 
 ## Below are the links to my profiles....
 
-- [Porfolio](https://devmanjohn.netlify.app/)
+- [Porfolio](https:/john-jake-parker)
 - [Linkiedn](https://www.linkedin.com/in/john-jake-parker/)
 
 ## More about me....
