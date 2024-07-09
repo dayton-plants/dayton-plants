@@ -2,14 +2,14 @@
 
 ## Below are the links to my profiles....
 
-- [Porfolio](https://john-jake-parker.com)
-- [Linkiedn](https://www.linkedin.com/in/john-jake-parker/)
+- [Porfolio](devmandayton.netlify.app)
+- [Linkiedn](https://www.linkedin.com/in/dayton-plants/)
 
 ## More about me....
 
 - 💻 I'm Dayton Low Plants & I am a senior full stack developer having 12 years of experience in web development. 
 - 🤟 I have started my career as a software engineer at Dreamers & Doers, then transfer my job to be an IC design system engineer, I do like the lower physical layer technology. 
-- 📧 Email me at <a href="parkerjakejohn127@gmail.com" target="_blank">parkerjakejohn127@gmail.com</a>
+- 📧 Email me at <a href="plantsdayton6@gmail.com" target="_blank">plantsdayton6@gmail.com</a>
 
 ## Languages & Tools 🛠
 
