@@ -2,9 +2,8 @@
 
 ## More about me....
 
-- 💻 I'm Dayton Low Plants & I am a senior full stack developer having 12 years of experience in web development. 
+- 💻 I am a senior full stack developer having 12 years of experience in web development. 
 - 🤟 I have started my career as a software engineer at Dreamers & Doers, then transfer my job to be an IC design system engineer, I do like the lower physical layer technology. 
-- 📧 Email me at <a href="plantsdayton6@gmail.com" target="_blank">plantsdayton6@gmail.com</a>
 
 ## Languages & Tools 🛠
 
