@@ -1,9 +1,4 @@
-## Dayton Low Plants here 🌎!
-
-## Below are the links to my profiles....
-
-- [Porfolio](devmandayton.netlify.app)
-- [Linkiedn](https://www.linkedin.com/in/dayton-plants/)
+## Carlos Aliceio here 🌎!
 
 ## More about me....
 
